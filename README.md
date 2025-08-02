@@ -16,3 +16,8 @@ You must be a query... because I've been waiting for you to SELECT me.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nuthankalyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuthankalyan&label=Profile%20views&color=0e75b6&style=flat" alt="nuthankalyan" />
+</p>
