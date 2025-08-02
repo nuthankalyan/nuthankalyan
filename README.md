@@ -1,4 +1,4 @@
-## About Me :
+
 You must be a query... because I've been waiting for you to SELECT me.
 
 ## Socials
